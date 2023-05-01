@@ -1,8 +1,8 @@
-# Projeto Arduíno para manipular 2 leds em paralelo
+# Projeto Arduíno para manipular 2 LEDs em paralelo
 
 ## Contextualização
 
-Neste experimento faremos  com que o LED incorporado e dois LEDs pisquem alternadamente utilizando o pino digital 13 (pino digital incorporado LED_BUILTIN = 13) e o pino digital 12. 
+Neste experimento faremos  com que o LED incorporado e dois LEDs pisquem alternadamente utilizando o pino digital 13 (pino digital incorporado LED_BUILTIN = 13) e o pino digital 12.
 
 ## Lista de componentes:
 
